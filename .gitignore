@@ -1,0 +1,14 @@
+.md
+.xml
+.iml
+.py
+.cmd
+.ps1
+node_modules
+npm-debug.log
+build/
+reports/
+.history
+.hypothesis/
+.env
+.history
